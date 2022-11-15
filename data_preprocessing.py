@@ -139,4 +139,3 @@ bow_data  , label_data = preprocess_train_data()
 print("first BOW encoding: " , bow_data[0])
 print("first Label encoding: " , label_data[0])
 
-
